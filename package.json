@@ -1,0 +1,17 @@
+{
+  "name": "minivuex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/mini-vuex.js",
+  "devDependencies": {
+    "rollup": "^2.52.8"
+  },
+  "scripts": {
+    "serve": "rollup -c -w",
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
